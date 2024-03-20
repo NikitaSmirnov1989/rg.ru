@@ -1,0 +1,17 @@
+.list{
+    width: 100%;
+    background: #aaddff;
+}
+.list_items{
+    width: 60%;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    padding: 20px 50px;
+    margin: 0px auto;
+    min-height: 350px;
+}
+.list_item{
+    margin-bottom: 5px;
+}
+
